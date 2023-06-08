@@ -1,0 +1,38 @@
+/* *{
+    background-color: black;
+} */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#flag{
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid black;
+    padding: 0%;
+    margin: -1px;
+
+}
+#orange{
+    background-color: orange;
+    width: 100%;
+    height: 33.33%;
+}
+#white{
+    background-color: white;
+    width: 100%;
+    height: 33.33%;
+}
+#Ashoka_Chakra{
+    height: 100%;
+    position: relative;
+    border-radius: 50%;
+    left: calc(50% - calc(33.33vh/2));
+
+
+}
+#green{
+    background-color: green;
+    width: 100%;
+    height: 33.33%;
+}
